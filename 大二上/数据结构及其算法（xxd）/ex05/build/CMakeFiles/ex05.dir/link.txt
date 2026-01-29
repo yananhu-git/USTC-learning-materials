@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ex05.dir/objects.a
+D:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\ex05.dir/objects.a @CMakeFiles\ex05.dir\objects1.rsp
+D:\mingw64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ex05.dir/objects.a -Wl,--no-whole-archive -o ex05.exe -Wl,--out-implib,libex05.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ex05.dir\linkLibs.rsp

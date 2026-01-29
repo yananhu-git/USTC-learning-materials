@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/data_structure/ex03/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex02.dir\\huffman.c.obj -c D:\\data_structure\\ex03\\huffman.c",
+  "file": "D:/data_structure/ex03/huffman.c",
+  "output": "CMakeFiles/ex02.dir/huffman.c.obj"
+},
+{
+  "directory": "D:/data_structure/ex03/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex02.dir\\main.c.obj -c D:\\data_structure\\ex03\\main.c",
+  "file": "D:/data_structure/ex03/main.c",
+  "output": "CMakeFiles/ex02.dir/main.c.obj"
+}
+]

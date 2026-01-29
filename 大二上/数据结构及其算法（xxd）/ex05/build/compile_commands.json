@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/data_structure/ex05/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex05.dir\\hash.c.obj -c D:\\data_structure\\ex05\\hash.c",
+  "file": "D:/data_structure/ex05/hash.c",
+  "output": "CMakeFiles/ex05.dir/hash.c.obj"
+},
+{
+  "directory": "D:/data_structure/ex05/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex05.dir\\main.c.obj -c D:\\data_structure\\ex05\\main.c",
+  "file": "D:/data_structure/ex05/main.c",
+  "output": "CMakeFiles/ex05.dir/main.c.obj"
+}
+]

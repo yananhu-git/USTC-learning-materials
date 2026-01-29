@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/data_structure/ex04/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex02.dir\\MST.c.obj -c D:\\data_structure\\ex04\\MST.c",
+  "file": "D:/data_structure/ex04/MST.c",
+  "output": "CMakeFiles/ex02.dir/MST.c.obj"
+},
+{
+  "directory": "D:/data_structure/ex04/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\ex02.dir\\main.c.obj -c D:\\data_structure\\ex04\\main.c",
+  "file": "D:/data_structure/ex04/main.c",
+  "output": "CMakeFiles/ex02.dir/main.c.obj"
+}
+]
